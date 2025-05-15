@@ -152,4 +152,5 @@ Made with ❤️ for students who want to stay ahead of deadlines.
 ---
 
 ## 🚀 Demo (coming soon)
-Live URL: https://canvas-tracker.vercel.app
+Live URL: in progress
+
